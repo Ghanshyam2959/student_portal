@@ -45,11 +45,12 @@ This Student Portal demonstrates how to integrate **Hibernate** with a relationa
 ---
 ## 📸 Screenshots
 
-### 🏠 Dashboard Page
-![Dashboard](Screenshots/dashboard.png)
+### 📝 Student Registration Form
+![Registration Form](Screenshots/registration-form1.png)
 
-### ➕ Add Student Form
-![Add Form](Screenshots/add-student.png)
+### 📝 Student Registration Form (Variation)
+![Registration Form 2](Screenshots/registration-form2.png)
+
 
 ## ⚙️ Getting Started
 
