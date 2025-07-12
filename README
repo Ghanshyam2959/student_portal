@@ -1,0 +1,60 @@
+# 🎓 Student Portal - Hibernate CRUD Web Application
+
+A simple Java-based **Student Portal** application that performs full **CRUD operations** using **Hibernate ORM** with database integration. This project allows you to add, view, update, and delete student details in a relational database.
+
+---
+
+## 📌 Table of Contents
+
+- [About the Project](#about-the-project)
+- [Features](#features)
+- [Tech Stack](#tech-stack)
+- [Getting Started](#getting-started)
+- [Project Structure](#project-structure)
+- [Screenshots](#screenshots)
+- [Contributing](#contributing)
+- [License](#license)
+
+---
+
+## 📖 About the Project
+
+This Student Portal demonstrates how to integrate **Hibernate** with a relational database (e.g., MySQL) to build a Java-based CRUD system. It's ideal for beginners learning Hibernate ORM and Java persistence.
+
+---
+
+## 🚀 Features
+
+- 🔹 Add New Student Details  
+- 🔹 Update Existing Student Information  
+- 🔹 Delete Student Records  
+- 🔹 Fetch All Students from the Database  
+- 🔹 Hibernate Configuration with Annotation-Based Mapping
+
+---
+
+## 🛠️ Tech Stack
+
+- 💻 Java (JDK 8 or higher)
+- 🛢️ Hibernate ORM
+- 🗄️ MySQL / H2 Database
+- 🧰 Maven (for dependency management)
+- 📄 JSP / Servlet (if web-based)
+- 🧪 Log4j (for logging, optional)
+
+---
+## 📸 Screenshots
+
+### 🏠 Dashboard Page
+![Dashboard](Screenshots/dashboard.png)
+
+### ➕ Add Student Form
+![Add Form](Screenshots/add-student.png)
+
+## ⚙️ Getting Started
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/your-username/student-portal-hibernate.git
+cd student-portal-hibernate
