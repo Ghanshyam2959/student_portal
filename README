@@ -4,18 +4,7 @@ A simple Java-based **Student Portal** application that performs full **CRUD ope
 
 ---
 
-## 📌 Table of Contents
 
-- [About the Project](#about-the-project)
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Getting Started](#getting-started)
-- [Project Structure](#project-structure)
-- [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
-
----
 
 ## 📖 About the Project
 
@@ -42,14 +31,7 @@ This Student Portal demonstrates how to integrate **Hibernate** with a relationa
 - 📄 JSP / Servlet (if web-based)
 - 🧪 Log4j (for logging, optional)
 
----
-## 📸 Screenshots
 
-### 📝 Student Registration Form
-![Registration Form](Screenshots/registration-form1.png)
-
-### 📝 Student Registration Form (Variation)
-![Registration Form 2](Screenshots/registration-form2.png)
 
 
 ## ⚙️ Getting Started
